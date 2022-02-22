@@ -1,0 +1,42 @@
+.violet{ background-color: blueviolet;}
+.vert_clair{background-color: rgba(153, 167, 120, 0.637);}
+.vert{ background-color: rgba(6, 173, 146, 0.733);}
+.orange{ background-color: rgb(189, 86, 27);}
+.yellow{ background-color: yellow;}
+.blue {background-color: rgba(68, 158, 231, 0.795);}
+.orange_clair{background-color: sandybrown;}
+.jaune_fonce{background-color: rgb(245, 189, 86);}
+.rose{background-color: salmon;}
+.rose_fonce{background-color: rgba(143, 6, 70, 0.616);}
+
+*
+{
+    margin: 5%;
+    padding: 0%;
+    text-align: center;
+    font-family: monospace;
+}
+table
+{
+    margin-top:;
+    font-size: 0.660vw;
+}
+
+td
+
+body{
+    display: flex;
+    justify-content: center;
+    
+} 
+img
+{margin-top:;
+    border-radius: 50%;
+    
+    
+    
+}
+.second
+{
+    margin-top: px;
+}
